@@ -1,2 +1,2 @@
 # Target-analysis
-This document contains exploratory analysis and in-depth exploration of the trends of purchase, delivery, items, payments, sellers and products of Target ecommerce business in Brazil. 
+This document contains exploratory analysis and in-depth exploration of the trends of purchase, delivery, items, payments, sellers and products of Target ecommerce business in Brazil. SQL queries have been used to pull data to analyse the impact of the company’s business on the economy. Furthermore, analysis of sales, freight and payment methods have been conducted. This is a non-exhaustive study and only provides an overview of the business in the different states of Brazil.
